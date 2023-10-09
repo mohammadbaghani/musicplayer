@@ -1,2 +1,2 @@
-# musicplayer
-یک موزیک پلیر حرفه ای با جاوااسکریپت ساختم. 
+#Musicplayer with java script by me (Baghani from Iran)
+View the site here : https://mohammadbaghani.github.io/musicplayer/
